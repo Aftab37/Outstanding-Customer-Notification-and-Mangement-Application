@@ -1,0 +1,661 @@
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.staticwebassets.runtime.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.exe
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.deps.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.runtimeconfig.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.AssemblyReference.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfoInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CoreCompileInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Softcon_working_Draft_2.styles.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\Softcon_working_Draft_2.bundle.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CopyComplete
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.genruntimeconfig.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.staticwebassets.runtime.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.exe
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.deps.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.runtimeconfig.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.AssemblyReference.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfoInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CoreCompileInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Softcon_working_Draft_2.styles.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\Softcon_working_Draft_2.bundle.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CopyComplete
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\refint\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.genruntimeconfig.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 2 copy\WebApplication1\obj\Debug\net6.0\ref\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.staticwebassets.runtime.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.exe
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.deps.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.runtimeconfig.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.AssemblyReference.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfoInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CoreCompileInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Softcon_working_Draft_2.styles.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\Softcon_working_Draft_2.bundle.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CopyComplete
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\refint\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.genruntimeconfig.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 2\WebApplication1\obj\Debug\net6.0\ref\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.staticwebassets.runtime.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.exe
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.deps.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.runtimeconfig.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.AssemblyReference.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfoInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CoreCompileInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Softcon_working_Draft_2.styles.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\Softcon_working_Draft_2.bundle.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CopyComplete
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\refint\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.genruntimeconfig.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 3\WebApplication1\obj\Debug\net6.0\ref\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.staticwebassets.runtime.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.exe
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.deps.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.runtimeconfig.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.AssemblyReference.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfoInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CoreCompileInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Softcon_working_Draft_2.styles.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\Softcon_working_Draft_2.bundle.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CopyComplete
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\refint\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.genruntimeconfig.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 4\WebApplication1\obj\Debug\net6.0\ref\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.staticwebassets.runtime.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.exe
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.deps.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.runtimeconfig.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.AssemblyReference.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfoInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CoreCompileInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Softcon_working_Draft_2.styles.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\Softcon_working_Draft_2.bundle.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CopyComplete
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\refint\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.genruntimeconfig.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Draft 5\WebApplication1\obj\Debug\net6.0\ref\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.staticwebassets.runtime.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.exe
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.deps.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.runtimeconfig.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.AssemblyReference.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfoInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CoreCompileInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Softcon_working_Draft_2.styles.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\Softcon_working_Draft_2.bundle.scp.css
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CopyComplete
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\refint\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.genruntimeconfig.cache
+C:\Users\Aftab hussain ansari\Desktop\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\ref\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.staticwebassets.runtime.json
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.exe
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.deps.json
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.runtimeconfig.json
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.AssemblyReference.cache
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfoInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.AssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CoreCompileInputs.cache
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cache
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.RazorAssemblyInfo.cs
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Softcon_working_Draft_2.styles.css
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\Softcon_working_Draft_2.bundle.scp.css
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.CopyComplete
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\refint\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.pdb
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.genruntimeconfig.cache
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\ref\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon's Project\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.csproj.AssemblyReference.cache
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon's Project\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon's Project\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon's Project\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\refint\Softcon_working_Draft_2.dll
+C:\Users\Aftab hussain ansari\Desktop\Files\Softcon's Project\Softcon_Notification_System_for_outstanding_customers\Working_Project\WebApplication1 - Working Draft 5\WebApplication1\obj\Debug\net6.0\Softcon_working_Draft_2.pdb
